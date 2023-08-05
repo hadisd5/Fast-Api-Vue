@@ -1,4 +1,4 @@
-# pull official base image
+# pull official base ima
 FROM python:3.9.1-alpine
 
 # set work director
